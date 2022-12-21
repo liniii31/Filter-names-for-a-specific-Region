@@ -1,0 +1,27 @@
+body{
+    background-color: white;
+}
+#input-div{
+    display:flex;
+    padding:25px;
+}
+#input-div input{
+    height:30px;
+    margin:5px;
+}
+#input-div button{
+    height:35px;
+    margin:5px;
+}
+.name-span{
+    height:30px;
+    text-align: center;
+    margin:5px;
+}
+#names-div{
+    margin:25px;
+    border:2px solid black;
+    border-radius:25px;
+    display: flex;
+    flex-wrap: wrap;
+}
